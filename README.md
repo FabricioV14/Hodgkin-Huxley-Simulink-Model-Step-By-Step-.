@@ -20,7 +20,7 @@ To fully understand this simulation, we must start with the groundbreaking resea
 Firstable i recomend you check the documents that i goint to upload here describing that this Hodgkinh and Huxley did in each one of their 5 papers and why is the last one the most improtant to recreated their model, wich i do in simulink and i consider important for everyone that are realy interested in neuyroscience.
 Below you will find the links and resources describing the step-by-step implementation, the analysis of each scientific paper, their conclusions, and how they seamlessly link into our MATLAB/Simulink environment:
 
-* 📄 **[Download the Original Paper / Laboratory Report](https://github.com)** — *Read the full document and scientific notes.*
+* 📄 **[Download the Original Paper / Laboratory Report](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.its.caltech.edu/~bi250b/papers/HH52d.pdf)** — *Read the full document and scientific notes.*
 * 🛠️ **[Simulink Model Folder](./Simulink_Model/)** — *Access the raw `.slx` and `.m` files used for the numerical simulation.*
 * 📊 **[Media & Results](./Media/)** — *Check out the captured waveforms, action potential graphs, and block diagrams.*
 
